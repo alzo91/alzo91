@@ -18,3 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzo91&theme=radical" />
 </div>
 <br>
+
+
+<p><strong>Programming is a state of learning</strong>
+that we must remain learning and studying and helping our partners and never create competition between languages.
+We must be better than we were yesterday as a person.
+</p>
